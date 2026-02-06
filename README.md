@@ -1,4 +1,4 @@
-🚗 Análisis de Accidentes de Tránsito en Colombia (2014–2021)
+🚗 Análisis de Accidentes de Tránsito en Colombia (2016–2021)
 📌 Descripción del proyecto
 
 Este proyecto realiza un análisis de datos de accidentes de tránsito en Colombia con el fin de identificar patrones, factores de riesgo y variables asociadas a la gravedad de los accidentes.
@@ -33,13 +33,8 @@ Power BI (dashboard interactivo)
 
 📂 Fuente y cobertura de los datos
 
-El conjunto de datos incluye registros entre 2014 y 2021.
+El conjunto de datos incluye registros entre 2016 y 2021.
 
-Se identificó que los años 2019–2021 presentan menor volumen de registros, por lo que:
-
-Los análisis de tendencia deben interpretarse con cautela en esos años.
-
-La mayor consistencia de datos se observa entre 2016 y 2021.
 
 🔍 Proceso analítico
 
